@@ -22,7 +22,7 @@ We'll go over what these features mean in detail in later sections but below you
 
 * Generalized Abstraction: unique protocol-level abstraction that spans Accounts, Signatures, Payments, Pricing, Interoperability, Devices, Gas, and more to make Web3 accessible to everyone, everywhere.
   * Account Abstraction — XION pioneers modular account abstraction at the protocol level.
-  * Signature Abstraction — XION is the first chain to support signing across all current and future cryptographic curves, through complete Signature Abstraction.. This enables the signing of transactions using email, biometrics (FaceID, Passkeys, etc.), EVM curve, Solana curve, and more
+  * Signature Abstraction — XION is the first chain to support signing across all current and future cryptographic curves, through complete Signature Abstraction. This enables the signing of transactions using email, biometrics (FaceID, Passkeys, etc.), EVM curve, Solana curve, and more
   * Gas Abstraction — XION eliminates the concept of gas fees entirely for the end user
   * Pricing Abstraction — XION is the first chain to utilize familiar fiat denominated pricing, also eliminating asset volatility
   * Abstracted Interoperability — XION is able to extend its Chain Abstraction solution to enable true interoperability across ecosystems.
